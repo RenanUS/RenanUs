@@ -22,4 +22,4 @@ Application development
 
 [LinkedIn](https://www.linkedin.com/in/renan-de-castro-cavalcanti-42a72429a/)
 
-[Instagram]([https://www.linkedin.com/in/renan-de-castro-cavalcanti-42a72429a/](https://www.instagram.com/renansz__/)
+[Instagram](https://www.instagram.com/renansz__/)
