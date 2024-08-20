@@ -4,32 +4,32 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
 
 🌱 Currently Learning:
 
-•Java
+  •Java
 
-•Database
+  •Database
 
-•Machine Learning
+  •Machine Learning
 
 💻 Technologies & Languages:
 
-•Python
+  •Python
 
-•C
+  •C
 
-•C#
+  •C#
 
 💡 Passionate About:
 
-•Hardware Engineering
+  •Hardware Engineering
 
-•Computer Science
+  •Computer Science
 
-•Game Development
+  •Game Development
 
-•Application development
+  •Application development
 
 🤝 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/renan-de-castro-cavalcanti-42a72429a/)
+  [LinkedIn](https://www.linkedin.com/in/renan-de-castro-cavalcanti-42a72429a/)
 
-[Instagram](https://www.instagram.com/renansz__/)
+  [Instagram](https://www.instagram.com/renansz__/)
