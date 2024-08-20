@@ -1,16 +1,20 @@
 ## About me 👋
 
-<!--
-**RenanUS/RenanUs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Renan, currently in graduation of Computer Engineering, i started to be passionate in tech learning about hardware in my childhood, but i'm also passionate in software field. Currently learning about Java, Database and Machine Learning. My goals in tech is more than just programming, i want discover new technologies, make it more democratic and help people making their lives more easier and happier.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+Java
+Database
+Machine Learning
+💻 Technologies & Languages
+Python
+C
+C#
+💡 Passionate About
+Hardware Engineering
+Computer Science
+Game Development
+Application development
+🤝 Contact Me
+[LinkedIn](https://www.linkedin.com/in/renan-de-castro-cavalcanti-42a72429a/)
+[Instagram]([https://www.linkedin.com/in/renan-de-castro-cavalcanti-42a72429a/](https://www.instagram.com/renansz__/))
