@@ -5,19 +5,29 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
 🌱 Currently Learning
 
 •Java
+
 •Database
+
 •Machine Learning
 
 💻 Technologies & Languages
+
 •Python
+
 •C
+
 •C#
 
 💡 Passionate About
+
 •Hardware Engineering
+
 •Computer Science
+
 •Game Development
+
 •Application development
+
 
 🤝 Contact Me
 
