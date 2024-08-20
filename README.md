@@ -12,6 +12,7 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
 •Machine Learning
 
 
+
 💻 Technologies & Languages
 
 •Python
@@ -19,6 +20,7 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
 •C
 
 •C#
+
 
 
 💡 Passionate About
@@ -30,6 +32,7 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
 •Game Development
 
 •Application development
+
 
 
 🤝 Contact Me
