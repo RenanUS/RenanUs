@@ -10,6 +10,7 @@ Machine Learning
 Python
 C
 C#
+
 💡 Passionate About
 Hardware Engineering
 Computer Science
