@@ -3,6 +3,7 @@
 I'm Renan, currently in graduation of Computer Engineering, i started to be passionate in tech learning about hardware in my childhood, but i'm also passionate in software field. Currently learning about Java, Database and Machine Learning. My goals in tech is more than just programming, i want discover new technologies, make it more democratic and help people making their lives more easier and happier.
 
 🌱 Currently Learning
+
 •Java
 •Database
 •Machine Learning
