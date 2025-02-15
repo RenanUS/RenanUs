@@ -6,9 +6,7 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
 
   •Java
 
-  •Database
-
-  •Machine Learning
+  •Data science
 
 💻 Technologies & Languages:
 
@@ -18,6 +16,8 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
 
   •C#
 
+  •Java
+  
 💡 Passionate About:
 
   •Hardware Engineering
