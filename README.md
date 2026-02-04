@@ -8,6 +8,8 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
 
   •Data science
 
+  •C/C++ Developer
+
 💻 Technologies & Languages:
 
   •Python
@@ -17,6 +19,10 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
   •C#
 
   •Java
+
+  •C++
+
+  •JavaScript
   
 💡 Passionate About:
 
