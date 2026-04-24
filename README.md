@@ -4,33 +4,29 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
 
 🌱 Currently Learning:
 
-  •Java
+  •Django
 
-  •Data science
-
-  •C/C++ Developer
+  •Linux
 
 💻 Technologies & Languages:
 
   •Python
 
+  •Java
+
   •C
 
   •C#
 
-  •Java
-
   •C++
 
-  •JavaScript
-  
 💡 Passionate About:
 
   •Hardware Engineering
 
   •Computer Science
 
-  •Game Development
+  •AI
 
   •Application development
 
