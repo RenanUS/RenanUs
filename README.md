@@ -4,9 +4,7 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
 
 🌱 Currently Learning:
 
-  •Django
-
-  •Linux
+  •Time series
 
 💻 Technologies & Languages:
 
@@ -27,8 +25,6 @@ I'm Renan, currently in graduation of Computer Engineering, i started to be pass
   •Computer Science
 
   •AI
-
-  •Application development
 
 🤝 Contact Me
 
